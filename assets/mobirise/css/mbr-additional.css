@@ -1858,6 +1858,51 @@ body {
 .cid-rmqVCnLR1T textarea.form-control {
   min-height: 188px;
 }
+.cid-rmr9p0Jlux {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/background10.jpg");
+}
+.cid-rmr9p0Jlux .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rmr9p0Jlux .formoid {
+  margin: auto;
+}
+.cid-rmr9p0Jlux .form-control {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+.cid-rmr9p0Jlux .input-group-btn .btn {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  margin: 0 !important;
+}
+.cid-rmr9p0Jlux a:not([href]):not([tabindex]) {
+  color: #fff;
+}
+.cid-rmr9p0Jlux a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+@media (max-width: 768px) {
+  .cid-rmr9p0Jlux .mbr-form .row {
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    -webkit-align-items: center;
+    align-items: center;
+  }
+  .cid-rmr9p0Jlux .form-group,
+  .cid-rmr9p0Jlux .input-group-btn,
+  .cid-rmr9p0Jlux .input-group-btn .btn {
+    max-width: 300px;
+    width: 100%;
+  }
+}
+@media (min-width: 769px) {
+  .cid-rmr9p0Jlux .mbr-form .row > * {
+    padding: 0 0.5rem;
+  }
+}
 .cid-rmqTHeJdXF {
   padding-top: 60px;
   padding-bottom: 60px;
